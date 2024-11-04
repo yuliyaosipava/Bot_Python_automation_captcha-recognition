@@ -1,3 +1,4 @@
+First of all it is neccessary to register chat in telegram:
 To built this project you need to install:
 1. Python
 2. Virtual envourment:
@@ -11,6 +12,7 @@ pip install undetected_chromedriver as uc
 pip install telegram
 c:\Users\yu\vfs-appointment-bot\VFSBot>VFSBot>python-telegram-bot
 
+From config1.ini login and password to register on site
 
 4. Using the **VFSBot.py** file, we log in to the site using a login and password and enter the words "report + budget" in the search bar and a list of documents with the rtf extension is displayed.
 These files are automatically downloaded to the computer.
