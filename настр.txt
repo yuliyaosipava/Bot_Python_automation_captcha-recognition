@@ -1,0 +1,15 @@
+C:\Users\37529>d c:\Users\37529\vfs-appointment-bot\VFSBot\
+'d' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\37529>cd c:\Users\37529\vfs-appointment-bot\VFSBot\
+
+c:\Users\37529\vfs-appointment-bot\VFSBot>VFSBot>python -m venv venv
+'VFSBot' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\37529\vfs-appointment-bot\VFSBot>python -m venv venv
+Python
+c:\Users\37529\vfs-appointment-bot\VFSBot>python -m venv venv
+
+(tutorial_env) c:\Users\37529\vfs-appointment-bot\VFSBot>pip install webdriver_manager
