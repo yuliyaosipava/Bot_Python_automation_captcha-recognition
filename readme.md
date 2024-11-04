@@ -9,6 +9,7 @@ To built this project you need to install:
 pip install selenium webdriver-manager
 pip install undetected_chromedriver as uc
 pip install telegram
+c:\Users\yu\vfs-appointment-bot\VFSBot>VFSBot>python-telegram-bot
 
 
 4. Using the **VFSBot.py** file, we log in to the site using a login and password and enter the words "report + budget" in the search bar and a list of documents with the rtf extension is displayed.
