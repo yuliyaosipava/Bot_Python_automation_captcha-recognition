@@ -23,8 +23,8 @@ browser.get(captcha_page_url)
 
 WebDriverWait(browser, 600).until(EC.presence_of_element_located((By.ID, "mat-input-0")))
 time.sleep(1)
-browser.find_element(by=By.ID, value="mat-input-0").send_keys('juliabrest3@gmail.com')
-browser.find_element(by=By.ID, value="mat-input-1").send_keys('Julia2288232!')   
+browser.find_element(by=By.ID, value="mat-input-0").send_keys('tratra@gmail.com')
+browser.find_element(by=By.ID, value="mat-input-1").send_keys('trutru!')   
 
 # Solve the Captcha
 print("Solving Captcha")
