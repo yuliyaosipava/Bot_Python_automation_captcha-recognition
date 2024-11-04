@@ -7,15 +7,11 @@ To built this project you need to install:
 3. First of all it is neccessary to install this modules:
 
 pip install selenium webdriver-manager
-pip install pywin32
-pip install python-docx
-pip install openpyxl
+pip install undetected_chromedriver as uc
+pip install telegram
 
-If you have any problems you can install:
 
-pip cache purge
-
-4. Using the **ilex.py** file, we log in to the site using a login and password and enter the words "report + budget" in the search bar and a list of documents with the rtf extension is displayed.
+4. Using the **VFSBot.py** file, we log in to the site using a login and password and enter the words "report + budget" in the search bar and a list of documents with the rtf extension is displayed.
 These files are automatically downloaded to the computer.
 5. Then, using the **convert4.py** file, files with the rtf extension are converted into files with the docx extension.
 6.  **convert1.py** - files with the docx extension are converted into files with the xlsx extension
