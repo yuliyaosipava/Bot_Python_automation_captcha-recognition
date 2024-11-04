@@ -1,4 +1,5 @@
-First of all it is neccessary to register chat in telegram:
+First of all it is neccessary to register chat in telegram.
+Pay $ to service TwoCaptures to solve captcha.
 To built this project you need to install:
 1. Python
 2. Virtual envourment:
